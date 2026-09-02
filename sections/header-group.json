@@ -27,19 +27,11 @@
             "text": "Livraison Offerte",
             "url": ""
           }
-        },
-        "message_f9FzHr": {
-          "type": "message",
-          "settings": {
-            "text": "",
-            "url": ""
-          }
         }
       },
       "block_order": [
         "message",
-        "message_kYRBJz",
-        "message_f9FzHr"
+        "message_kYRBJz"
       ],
       "settings": {
         "enable_sticky": false,
@@ -58,8 +50,9 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo_max_width": 120,
-        "logo_mobile_max_width": 100,
+        "logo": "shopify://shop_images/image_7f4908a5a98c598efe0bda31f91af75f.jpg",
+        "logo_max_width": 275,
+        "logo_mobile_max_width": 140,
         "menu": "main-menu",
         "sidebar_menu": "",
         "secondary_menu": "",
