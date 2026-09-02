@@ -12,10 +12,10 @@
     "featured_product_MJCyXw": {
       "type": "featured-product",
       "blocks": {
-        "title_UyRhXc": {
-          "type": "title",
+        "text_Ret3cA": {
+          "type": "text",
           "settings": {
-            "heading_tag": "h2"
+            "text": "<h3>Drainelle - Gélules Drainage Lymphatique</h3>"
           }
         },
         "kaching_bundles_app_block_QXzELX": {
@@ -38,7 +38,7 @@
         }
       },
       "block_order": [
-        "title_UyRhXc",
+        "text_Ret3cA",
         "kaching_bundles_app_block_QXzELX",
         "buy_buttons_49bQ4x"
       ],
