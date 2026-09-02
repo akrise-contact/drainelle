@@ -12,12 +12,25 @@
     "featured_product_MJCyXw": {
       "type": "featured-product",
       "blocks": {
+        "title_UyRhXc": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "kaching_bundles_app_block_QXzELX": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "{{section.settings.product}}",
+            "manual_deal_block_id": ""
+          }
+        },
         "buy_buttons_49bQ4x": {
           "type": "buy_buttons",
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": false,
-            "atc_button_background": "#05B77B",
+            "atc_button_background": "#05b77b",
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
@@ -25,6 +38,8 @@
         }
       },
       "block_order": [
+        "title_UyRhXc",
+        "kaching_bundles_app_block_QXzELX",
         "buy_buttons_49bQ4x"
       ],
       "name": "Featured product",
