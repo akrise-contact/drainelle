@@ -183,7 +183,7 @@
           "settings": {
             "show_payment_button": false,
             "show_gift_card_recipient": false,
-            "atc_button_background": "#05b77b",
+            "atc_button_background": "#EDC00B",
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
@@ -214,6 +214,54 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "tabs_3aNV9W": {
+      "type": "tabs",
+      "blocks": {
+        "tab_kXhFgq": {
+          "type": "tab",
+          "settings": {
+            "title": "Ingrédients",
+            "content": "<ul><li><strong>Gaillet Gratteron — 100 mg</strong></li></ul><p>Désobstrue les canaux lymphatiques qui transportent le cholestérol HDL vers le foie pour élimination. Relance la pompe lymphatique bloquée depuis des années.</p><ul><li><strong>Racine de Pissenlit — 250 mg</strong></li></ul><p>Stimule la production de bile — la voie principale d'élimination du cholestérol par le foie. Diurétique naturel cliniquement validé (p &lt; 0,001).</p><ul><li><strong>Racine de Bardane — 200 mg</strong></li></ul><p>Élimine les débris inflammatoires qui congèrent les vaisseaux. Réduit significativement les marqueurs IL-6 et CRP — rompant le cycle inflammation-accumulation du LDL.</p><ul><li><strong>Bromélaïne — 100 mg</strong></li></ul><p>Dissout les dépôts de fibrine qui obstruent les artères et les canaux lymphatiques. Aussi efficace que les AINS sur ordonnance pour réduire l'inflammation vasculaire.</p><ul><li><strong>Échinacée Purpurea — 500 mg</strong></li></ul><p>Stimule l'immunité lymphatique et accélère l'élimination des résidus métaboliques accumulés dans les vaisseaux. Réduit de 40% les infections récurrentes (méta-analyse, 5 600+ participants).</p><ul><li><strong>Rutine — 100 mg</strong></li></ul><p>Renforce les parois artérielles fragilisées par l'accumulation de LDL. Réduit la perméabilité vasculaire et prévient le dépôt de nouvelles plaques.</p><ul><li><strong>Kelp — 30 mg</strong></li></ul><p>Agit sur deux fronts : réduit la production de cholestérol ET aide le corps à l'éliminer via la voie biliaire. La fucoxanthine réduit la masse grasse associée au LDL élevé.</p><ul><li><strong>Poudre de Citron — 50 mg</strong></li></ul><p>Protège les parois artérielles des dommages oxydatifs causés par le LDL. Amélioration de 145% de la fonction vasculaire démontrée en essai triple aveugle.</p>",
+            "page": ""
+          }
+        },
+        "tab_nPXifp": {
+          "type": "tab",
+          "settings": {
+            "title": "Que faire si ça ne marche pas ?",
+            "content": "<p>Nous offrons une <strong>garantie satisfait ou remboursé de 60 jours</strong>, sans condition et sans justification. Remboursement intégral. Aucune question posée.</p>",
+            "page": ""
+          }
+        },
+        "tab_hQhKYF": {
+          "type": "tab",
+          "settings": {
+            "title": "Livraison et retours",
+            "content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_kXhFgq",
+        "tab_nPXifp",
+        "tab_hQhKYF"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "text_alignment": "center",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
       }
     },
     "custom_liquid_ckffr8": {
@@ -327,54 +375,6 @@
         "overlay_opacity": 0
       }
     },
-    "tabs_3aNV9W": {
-      "type": "tabs",
-      "blocks": {
-        "tab_kXhFgq": {
-          "type": "tab",
-          "settings": {
-            "title": "Ingrédients",
-            "content": "<ul><li><strong>Gaillet Gratteron — 100 mg</strong></li></ul><p>Désobstrue les canaux lymphatiques qui transportent le cholestérol HDL vers le foie pour élimination. Relance la pompe lymphatique bloquée depuis des années.</p><ul><li><strong>Racine de Pissenlit — 250 mg</strong></li></ul><p>Stimule la production de bile — la voie principale d'élimination du cholestérol par le foie. Diurétique naturel cliniquement validé (p &lt; 0,001).</p><ul><li><strong>Racine de Bardane — 200 mg</strong></li></ul><p>Élimine les débris inflammatoires qui congèrent les vaisseaux. Réduit significativement les marqueurs IL-6 et CRP — rompant le cycle inflammation-accumulation du LDL.</p><ul><li><strong>Bromélaïne — 100 mg</strong></li></ul><p>Dissout les dépôts de fibrine qui obstruent les artères et les canaux lymphatiques. Aussi efficace que les AINS sur ordonnance pour réduire l'inflammation vasculaire.</p><ul><li><strong>Échinacée Purpurea — 500 mg</strong></li></ul><p>Stimule l'immunité lymphatique et accélère l'élimination des résidus métaboliques accumulés dans les vaisseaux. Réduit de 40% les infections récurrentes (méta-analyse, 5 600+ participants).</p><ul><li><strong>Rutine — 100 mg</strong></li></ul><p>Renforce les parois artérielles fragilisées par l'accumulation de LDL. Réduit la perméabilité vasculaire et prévient le dépôt de nouvelles plaques.</p><ul><li><strong>Kelp — 30 mg</strong></li></ul><p>Agit sur deux fronts : réduit la production de cholestérol ET aide le corps à l'éliminer via la voie biliaire. La fucoxanthine réduit la masse grasse associée au LDL élevé.</p><ul><li><strong>Poudre de Citron — 50 mg</strong></li></ul><p>Protège les parois artérielles des dommages oxydatifs causés par le LDL. Amélioration de 145% de la fonction vasculaire démontrée en essai triple aveugle.</p>",
-            "page": ""
-          }
-        },
-        "tab_nPXifp": {
-          "type": "tab",
-          "settings": {
-            "title": "Que faire si ça ne marche pas ?",
-            "content": "<p>Nous offrons une <strong>garantie satisfait ou remboursé de 60 jours</strong>, sans condition et sans justification. Remboursement intégral. Aucune question posée.</p>",
-            "page": ""
-          }
-        },
-        "tab_hQhKYF": {
-          "type": "tab",
-          "settings": {
-            "title": "Livraison et retours",
-            "content": "",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "tab_kXhFgq",
-        "tab_nPXifp",
-        "tab_hQhKYF"
-      ],
-      "name": "Tabs",
-      "settings": {
-        "full_width": true,
-        "content_size": "medium",
-        "subheading": "",
-        "title": "",
-        "text_alignment": "center",
-        "first_tab_open": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -458,13 +458,13 @@
     "image_with_text_overlay_qP3hCL",
     "multi_column_K3GYWH",
     "featured_product_MJCyXw",
+    "tabs_3aNV9W",
     "custom_liquid_ckffr8",
     "image_with_text_overlay_XJfKxD",
     "rich_text_8EFkf4",
     "image_with_text_overlay_NCyHKr",
     "image_with_text_overlay_NfgqKh",
     "image_with_text_overlay_Phhcyi",
-    "tabs_3aNV9W",
     "faq"
   ]
 }
