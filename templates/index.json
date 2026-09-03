@@ -66,6 +66,7 @@
         "item_DEpiBP": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/image_49.webp",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -78,6 +79,7 @@
         "item_KNP6cm": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT-Image-3-sept.-2026_-20_26_29-_3.webp",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -90,6 +92,33 @@
         "item_bFVP7L": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT-Image-3-sept.-2026_-20_26_30-_5.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_kGhad4": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT-Image-3-sept.-2026_-20_26_29-_4.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_ECQ7Hh": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/ChatGPT-Image-3-sept.-2026_-20_26_28-_2.webp",
             "column_size": "3",
             "title": "Column title",
             "heading_tag": "h4",
@@ -103,7 +132,9 @@
       "block_order": [
         "item_DEpiBP",
         "item_KNP6cm",
-        "item_bFVP7L"
+        "item_bFVP7L",
+        "item_kGhad4",
+        "item_ECQ7Hh"
       ],
       "name": "Multi-column",
       "settings": {
