@@ -34,6 +34,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/image_44.webp",
+        "mobile_image": "shopify://shop_images/image_44.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -49,8 +51,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/image_42.webp",
-        "mobile_image": "shopify://shop_images/image_42.webp",
+        "image": "shopify://shop_images/image_45.webp",
+        "mobile_image": "shopify://shop_images/image_45.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -191,41 +193,94 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/ChatGPT_Im7_00_50_1age_10_mai_2026_1.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
+      }
+    },
+    "rich_text_8EFkf4": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_gDJBLA": {
+          "type": "heading",
+          "settings": {
+            "text": "Le système lymphatique, en 30 secondes",
+            "heading_tag": "h3",
+            "text_color": "#1D5F00",
+            "gradient": ""
+          }
+        },
+        "richtext_anrmVh": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h5>Voici ce qui se passe réellement</h5><h5>↓sous votre peau ↓</h5>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_gDJBLA",
+        "richtext_anrmVh"
+      ],
+      "custom_css": [],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "#7C7C7C"
+      }
+    },
+    "image_with_text_overlay_NCyHKr": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/image_46.webp",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     },
     "image_with_text_overlay_NfgqKh": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/image_47.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "image_with_text_overlay_Phhcyi": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/image_48.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "tabs_3aNV9W": {
@@ -360,6 +415,8 @@
     "multi_column_K3GYWH",
     "featured_product_MJCyXw",
     "image_with_text_overlay_XJfKxD",
+    "rich_text_8EFkf4",
+    "image_with_text_overlay_NCyHKr",
     "image_with_text_overlay_NfgqKh",
     "image_with_text_overlay_Phhcyi",
     "tabs_3aNV9W",
