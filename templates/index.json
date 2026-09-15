@@ -162,7 +162,7 @@
         "text_Ret3cA": {
           "type": "text",
           "settings": {
-            "text": "<h3>Drainelle - Gélules Drainage Lymphatique</h3>"
+            "text": "<h3><strong>DRAINELLE</strong> - Gélules Drainage Lymphatique</h3>"
           }
         },
         "liquid_W8Yj3p": {
@@ -450,6 +450,27 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
+    },
+    "contact_rpHaEq": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Une question ?",
+        "content": "",
+        "text_position": "center",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
     }
   },
   "order": [
@@ -465,6 +486,7 @@
     "image_with_text_overlay_NCyHKr",
     "image_with_text_overlay_NfgqKh",
     "image_with_text_overlay_Phhcyi",
-    "faq"
+    "faq",
+    "contact_rpHaEq"
   ]
 }
