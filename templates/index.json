@@ -68,9 +68,9 @@
           "settings": {
             "image": "shopify://shop_images/image_49.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Camille, 38 ans",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Je me sentais souvent gonflée au niveau du ventre, surtout en fin de journée. Après quelques jours, j’ai vraiment retrouvé une sensation de légèreté et mes vêtements me serrent beaucoup moins.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -81,9 +81,9 @@
           "settings": {
             "image": "shopify://shop_images/ChatGPT-Image-3-sept.-2026_-20_26_29-_3.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Sophie, 46 ans",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Mes jambes étaient lourdes presque tous les soirs. Aujourd’hui, je les sens beaucoup plus légères et j’ai nettement moins cette impression d’être gonflée au niveau des chevilles.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -94,9 +94,9 @@
           "settings": {
             "image": "shopify://shop_images/ChatGPT-Image-3-sept.-2026_-20_26_30-_5.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Élodie, 41 ans",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Le matin, j’avais souvent le visage bouffi et les traits fatigués. J’ai été surprise de voir mon visage paraître plus frais et mieux défini au réveil.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -107,9 +107,9 @@
           "settings": {
             "image": "shopify://shop_images/ChatGPT-Image-3-sept.-2026_-20_26_29-_4.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Nathalie, 44 ans",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Je ne cherchais pas à perdre énormément de poids, juste à me sentir moins gonflée dans mon corps. C’est exactement la différence que j’ai remarquée : je me sens plus à l’aise et plus légère au quotidien.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -120,9 +120,9 @@
           "settings": {
             "image": "shopify://shop_images/ChatGPT-Image-3-sept.-2026_-20_26_28-_2.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "Julie, 36 ans",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Mon ventre et mes cuisses avaient tendance à gonfler facilement. Maintenant, ma silhouette paraît moins gonflée et je me sens surtout beaucoup plus confortable dans mes vêtements.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -141,10 +141,10 @@
         "full_width": true,
         "stack_on_mobile": false,
         "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "About",
-        "title": "Featured content",
-        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "<h5><strong>+14 683 femmes l'ont adopté. </strong>Voilà ce qu'elles racontent.</h5>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
